@@ -1,6 +1,12 @@
 # Stock traders
 Using liminal.market is similar to any stock exchange, you need to register and perfom a KYC. After the KYC has been approved you can fund you account for trading.
 
+## Videos
+It's easier to understand when you see it happening. We recommend checking out our 2 videos, they are both short.
+
+1. [How to buy on liminal.market](https://www.youtube.com/watch?v=Xu3O3asNUd0)
+2. [How to buy using your wallet](https://www.youtube.com/watch?v=bTDj4byJdqY)
+
 ## Where to go
 You can start by going to [app.liminal.market](https://app.liminal.market). This is where you can register, fund your account, buy & sell stocks.
 
