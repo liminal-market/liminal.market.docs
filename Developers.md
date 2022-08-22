@@ -1,5 +1,13 @@
 
 # Developers
+
+## Vision
+Before you check out the developer section, we recommend you check out [short video of what our vision](https://www.youtube.com/watch?v=HDIqYvR0has) on how we see liminal.market becoming a pipeline for multiple other projects.
+
+## Early stage
+This is early stage develpment documentation, so there are not much detail here. We encourage you to check out our [Discord channel](https://discord.gg/ePs5cRceNB) for discussion and to help us build up the documentation
+
+## Development
 As a developer, you are either reading data or writing data. You should know which one you are doing.
 
 ## Reading
