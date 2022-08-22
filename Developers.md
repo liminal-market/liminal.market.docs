@@ -39,11 +39,17 @@ We will provide more example and ready made libraries in the future.
 ## Writing (Buy & sell stock)
 When writing data, you are executing smart contracts. You should be working with 3 smart contracts.
 
-### Buy a symbol flow
-When buying stock the flow is the following
+### Buy a stock - flow
+When buying stock, the flow is the following
 
 1. Retrieve the address of the symbol on chain using LiminalMarket.getSecurityToken method
-2. Exeucte transfer on aUSD token
+2. Exeucte transfer on aUSD token. Recipient is the contract address of the symbol, amount is the dollar amount to buy
+
+### Sell a stock - flow
+When selling stock, the flow is the following
+
+1. Retrieve the address of the contract symbol from the users address (he should have it in his wallet)
+2. Exeucte transfer on the contract symbol token. Recipient is the aUSD address, amount is the quantity of symbols to sell
 
 ### LiminalMarket - contract
 
