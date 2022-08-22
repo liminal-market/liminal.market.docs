@@ -2,10 +2,9 @@
 Using liminal.market is similar to any stock exchange, you need to register and perfom a KYC. After the KYC has been approved you can fund you account for trading.
 
 ## Videos
-It's easier to understand when you see it happening. We recommend checking out our 2 videos, they are both short.
+It's easier to understand when you see it happening. We recommend checking out our video, it's short.
 
 1. [How to buy on liminal.market](https://www.youtube.com/watch?v=Xu3O3asNUd0)
-2. [How to buy using your wallet](https://www.youtube.com/watch?v=bTDj4byJdqY)
 
 ## Where to go
 You can start by going to [app.liminal.market](https://app.liminal.market). This is where you can register, fund your account, buy & sell stocks.
@@ -35,6 +34,11 @@ Go to app.liminal.market, there in the upper right corner (after login) you can 
 For the symbol you want to buy, go to the Stocks tab on app.liminal.market, click Copy on the symbol you want to trade with and add it to your contact list. 
 
 Now you are ready to buy and sell stock through your wallet. 
+
+### Video
+Check out the video on how you sell stock, it's short
+. [How to buy using your wallet](https://www.youtube.com/watch?v=bTDj4byJdqY)
+
 ### Buy
 Click the aUSD symbol (you need add it to your wallet if you haven't), click Send, select the symbol you saved in your contact list, type in the dollar amount you want to buy and confirm the transaction.
 
