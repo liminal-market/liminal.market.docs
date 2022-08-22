@@ -15,5 +15,8 @@ Before you can exeucte trades you need to do KYC (Know your customer). This is a
 ## Fund your account
 After you have finished KYC you can fund your account. On the testnet this is simple click of a button and we will give you $50. This is not real money.
 
-## Buy some stock
+## Buy stock
 You select the stock you want to buy, type in the amount you want to buy and click Execute trade. You then need to confirm the trade in you wallet. 
+
+## Sell stock
+After you have bought a stock, you can sell it. The process is same as with buying, click the aUSD and select the stock you want to sell and type in the quantity you want to sell. You'll see how many dollar you'll recieve for it.
