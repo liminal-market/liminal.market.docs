@@ -1,8 +1,11 @@
 # Stock traders
 Using liminal.market is similar to any stock exchange, you need to register and perfom a KYC. After the KYC has been approved you can fund you account for trading.
 
-## Registration
-Registration is simple, just login using your crypto wallet. If you don't have a crypto wallet we recommend TokenPoket, or you can select from list of other wallets. The wallet needs to support Polygon Mumbai network.
+## Where to go
+You can start by going to [app.liminal.market](https://app.liminal.market). This is where you can register, fund your account, buy & sell stocks.
+
+## Login (Connect wallet)
+Login is simple, just login using your crypto wallet. If you don't have a crypto wallet we recommend TokenPoket, or you can select from list of other wallets. The wallet needs to support Polygon Mumbai network.
 
 ## KYC
 Before you can exeucte trades you need to do KYC (Know your customer). This is a requirement from the stock exchange. On testnet this is easy, you don't need to fill in correct information.
